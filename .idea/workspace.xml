@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94d25ae0-7472-496d-b45f-d56900ab39b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hooks_useCallback.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hooks_useMemo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Option.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,34 +63,54 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585379866609</updated>
-      <workItem from="1585379868179" duration="13860000" />
+      <workItem from="1585379868179" duration="14495000" />
     </task>
+    <task id="LOCAL-00001" summary="redux1">
+      <created>1585447833340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585447833340</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="redux1" />
+    <option name="LAST_COMMIT_MESSAGE" value="redux1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="400" y="0" key="CommitChangelistDialog2" timestamp="1585447831513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="400" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585447831513" />
     <state x="630" y="308" key="Github.ShareDialog" timestamp="1585447816778">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="630" y="308" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1585447816778" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1585380283554">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1585448142833">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585380283554" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1585380283554">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585448142833" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1585448142832">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585380283554" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1585380283554">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585448142832" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1585448142832">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585380283554" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1585380283554">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585448142832" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1585448142832">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585380283554" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585448142832" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1585447834852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585447834852" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585446326890">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
